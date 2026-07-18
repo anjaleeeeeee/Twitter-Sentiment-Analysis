@@ -134,7 +134,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 ```
 
-4. Open `TWITTER SENTIMENT ANALYSIS.ipynb` using Jupyter Notebook or JupyterLab.
+4. Open `twitter_hate_speech_analysis.ipynb` using Jupyter Notebook or JupyterLab.
 
 5. Run all cells sequentially.
 
